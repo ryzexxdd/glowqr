@@ -1,6 +1,6 @@
 {
-  "name": "yeahwww",
-  "short_name": "yeahwww",
+  "name": "glowqr",
+  "short_name": "glowqr",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
