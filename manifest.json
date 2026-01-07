@@ -1,6 +1,6 @@
 {
-  "name": "glowqr",
-  "short_name": "glowqr",
+  "name": "TG-glowqr",
+  "short_name": "TG-glowqr",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -19,4 +19,5 @@
     }
   ]
 }
+
 
